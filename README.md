@@ -3,6 +3,7 @@
 ### Requirements:
   * OS: Windows.
   * IDE: Microsoft Visual Studio.
+  * Run the project on x86 configuration in Visual Studio.
 #### You may have to change Windows SDK version. Project is using version 10.0.17134.0
 #### Game can have lower frame rate in lower config GPUs.
 ###
